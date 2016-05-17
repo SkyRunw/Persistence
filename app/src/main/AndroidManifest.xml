@@ -13,6 +13,12 @@
         </activity>
         <activity android:name=".acticity.file.FileActivity">
 
+
+        </activity>
+        <activity android:name=".acticity.shared.SharedPreferencesActivity">
+
+        </activity>
+        <activity android:name=".acticity.sqlite.SqliteActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
